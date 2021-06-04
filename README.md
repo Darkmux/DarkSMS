@@ -4,3 +4,20 @@ DarkSMS es un script que utiliza la API del sitio web (https://textbelt.com) par
 ![alt text](https://github.com/Darkmux/DarkSMS/blob/main/images/DarkSMS.png)
 # MENSAJE DE TEXTO
 ![alt text](https://github.com/Darkmux/DarkSMS/blob/main/images/SMS.png)
+# PLATAFORMAS
+* [√] Termux
+* [√] Kali Linux
+* [√] Parrot Sec
+# REQUISITOS
+* [+] git
+* [+] curl
+# INSTALACIÓN
+* $ git clone https://github.com/Darkmux/DarkSMS
+* $ cd DarkSMS
+* $ chmod 777 darksms.sh
+* $ bash darksms.sh
+# EJECUTABLE
+* $ darksms
+# Creado por Darkmux
+# ©WHITE HACKS
+https://t.me/whitehacks_bot
